@@ -2,7 +2,7 @@
 
 Health Plus addresses the challenges of healthcare accessibility and patient-provider interactions through an innovative online platform. Patients often struggle with unreliable health information, cumbersome appointment scheduling, and communication barriers with healthcare providers.
 
-**The project link is:** https://jolly-pond-0dbfece10.5.azurestaticapps.net/
+**The project link is:** https://jolly-tree-051820a10.5.azurestaticapps.net/
 
 **Note:- The content on the website is provided as a sample for demonstration purposes, showcasing the capabilities of this internship project.**
 
